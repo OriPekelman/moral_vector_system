@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
+import plotly.graph_objects as go
+import matplotlib
+matplotlib.use('Agg')  # Use a non-GUI backend
 
 class Visualizer:
     def visualize_vectors(self, agents, situations):
@@ -30,7 +33,10 @@ class Visualizer:
         plt.xlabel('Moral Prioritization Spectrum')
         plt.ylabel('Conflict Sensitivity Dimension')
         plt.legend()
-        plt.show()
+
+        # Save the plot as an image file
+        plt.savefig('static/moral_vectors.png')
+        plt.close()
 
     def visualize_weight_changes_over_time(self, agents):
         plt.figure(figsize=(12, 8))
@@ -47,4 +53,29 @@ class Visualizer:
         plt.legend()
         plt.xticks(rotation=45)
         plt.tight_layout()
-        plt.show()
+
+        # Save the plot as an image file
+        plt.savefig('static/weight_changes.png')
+        plt.close()
+
+    def visualize_decision_timeline(self, agents, situations):
+        fig = go.Figure()
+
+        for agent in agents:
+            timestamps = []
+            decision_scores = []
+            for situation in situations:
+                outcome = agent.judge_situation(situation["situation_vector"])
+                timestamps.append(situation["timestamp"])
+                decision_scores.append(outcome)
+
+            fig.add_trace(go.Scatter(x=timestamps, y=decision_scores,
+                                     mode='lines+markers',
+                                     name=f'{agent.name} Decision Score'))
+
+        fig.update_layout(title='Decision Scores Over Time',
+                          xaxis_title='Time',
+                          yaxis_title='Decision Score',
+                          template='plotly_dark')
+        # Save the Plotly figure as an HTML file
+        fig.write_html("static/decision_timeline.html")

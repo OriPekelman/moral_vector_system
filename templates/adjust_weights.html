@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adjust Weights for Agent</title>
+    <script>
+        // Fetch duties from the API and dynamically update the labels
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch("/api/duties")
+                .then(response => response.json())
+                .then(data => {
+                    const labels = document.querySelectorAll("label[for^='weight']");
+                    labels.forEach((label, index) => {
+                        if (data.duties && data.duties[index]) {
+                            label.textContent = data.duties[index] + ":";
+                        }
+                    });
+                })
+                .catch(error => console.error("Error fetching duties:", error));
+        });
+    </script>
+</head>
+<body>
+    <h1>Adjust Weights for Agent</h1>
+    <form method="post" action="{{ url_for('adjust_weights') }}">
+        <label for="agent">Select Agent:</label>
+        <select name="agent" id="agent-select">
+            {% for agent in agents %}
+            <option value="{{ agent.name }}" {% if request.args.get('agent') == agent.name %}selected{% endif %}>{{ agent.name }}</option>
+            {% endfor %}
+        </select>
+        <h3>Adjust Moral Duty Weights</h3>
+        {% set selected_agent = agents | selectattr('name', 'equalto', request.args.get('agent')) | first %}
+        {% for i in range(selected_agent.weights|length) %}
+        <label for="weight{{ i }}">Loading...</label>
+        <input type="text" name="weights" value="{{ selected_agent.weights[i] }}">
+        <br>
+        {% endfor %}
+        <input type="submit" value="Save Changes">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Dashboard</a>
+</body>
+</html>

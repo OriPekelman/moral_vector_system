@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Visualizations</title>
+</head>
+<body>
+    <h1>Visualizations</h1>
+    <ul>
+        <li><a href="{{ url_for('view_image', image_name='moral_vectors.png') }}" target="_blank">Moral Vectors Plot</a></li>
+        <li><a href="{{ url_for('view_image', image_name='weight_changes.png') }}" target="_blank">Weight Changes Over Time Plot</a></li>
+        <li><a href="/static/decision_timeline.html" target="_blank">Decision Timeline Visualization</a></li>
+    </ul>
+    <a href="{{ url_for('index') }}">Back to Dashboard</a>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Moral Scenario Story</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <main>
+        <section>
+            <div class="story-content">
+                
+                {{ story |safe}}
+            </div>
+        </section>
+    </main>
+    <footer>
+        <a href="{{ url_for('index') }}">Back to Dashboard</a>
+    </footer>
+</body>
+</html>

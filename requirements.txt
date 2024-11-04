@@ -1,6 +1,8 @@
+json5
 flask
-numpy
+markdown
 matplotlib
+numpy
+plotly
 scikit-learn
 scipy
-json5

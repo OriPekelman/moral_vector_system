@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Moral Vector System Dashboard</title>
+</head>
+<body>
+    <h1>Moral Vector System</h1>
+    <h2>Agents</h2>
+    <ul>
+        {% for agent in agents %}
+        <li>
+            <strong>{{ agent.name }} ({{ agent.social_class }})</strong>
+            <p>Description: {{ agent.description }}</p>
+            <p>Weights: {{ agent.weights }}</p>
+            <a href="{{ url_for('adjust_weights') }}?agent={{ agent.name }}">Adjust Weights</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <h2>Actions</h2>
+    <ul>
+        <li><a href="{{ url_for('visualize') }}">Visualize Agents and Decisions</a></li>
+        <li><a href="{{ url_for('visualize_decision_timeline') }}">Visualize Decision Timeline</a></li>
+        <li><a href="{{ url_for('view_visualizations') }}">View Visualizations</a></li>
+        <li><a href="{{ url_for('story') }}">View Story</a></li>
+    </ul>
+</body>
+</html>
