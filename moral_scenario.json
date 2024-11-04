@@ -116,19 +116,47 @@
       }
     ],
     "world": {
-      "situations": [
-        {
-          "name": "Election Scenario - Lower Taxes",
-          "description": "A candidate promises lower taxes, which will benefit wealthy individuals in the short term, allowing them to do more charity. However, it may reduce funding for social programs that benefit others in the long term.",
-          "timestamp": "2024-11-04T10:42:00.163605",
-          "situation_vector": [0.5, 0.3, 0.2, 0.4, 0.1, 0.6, 0.3, 0.7, 0.5, 0.2, 0.4, 0.3, 0.8, 0.1, 0.6, 0.2, 0.5, 0.4, 0.3, 0.1]
-        },
-        {
-          "name": "Election Scenario - Increase Taxes",
-          "description": "A candidate promises to increase taxes, which may harm wealthy individuals in the short term but improve societal conditions (education, infrastructure) in the long term.",
-          "timestamp": "2024-11-04T10:42:00.163615",
-          "situation_vector": [0.7, 0.5, 0.6, 0.8, 0.9, 0.4, 0.3, 0.5, 0.2, 0.6, 0.7, 0.3, 0.5, 0.8, 0.2, 0.4, 0.1, 0.5, 0.7, 0.9]
-        }
-      ]
+        "situations": [
+          {
+            "name": "Election Scenario - Lower Taxes",
+            "description": "A candidate promises lower taxes, which will benefit wealthy individuals in the short term, allowing them to do more charity. However, it may reduce funding for social programs that benefit others in the long term.",
+            "timestamp": "2024-11-04T10:42:00.163605",
+            "situation_vector": [0.5, 0.3, 0.2, 0.4, 0.1, 0.6, 0.3, 0.7, 0.5, 0.2, 0.4, 0.3, 0.8, 0.1, 0.6, 0.2, 0.5, 0.4, 0.3, 0.1],
+            "phases": [
+              {
+                "name": "Initial Campaign",
+                "description": "The candidate's promise of lower taxes is being promoted, and public opinion is forming.",
+                "situation_vector": [0.5, 0.4, 0.2, 0.3, 0.2, 0.5, 0.4, 0.6, 0.4, 0.3, 0.4, 0.3, 0.7, 0.1, 0.5, 0.3, 0.4, 0.3, 0.2, 0.1],
+                "timestamp": "2024-11-04T10:42:00.163615"
+              },
+              {
+                "name": "Post-Election",
+                "description": "The candidate has won, and now policies are being implemented. Social programs see a reduction in funding.",
+                "situation_vector": [0.6, 0.5, 0.3, 0.4, 0.1, 0.7, 0.5, 0.8, 0.6, 0.3, 0.5, 0.4, 0.9, 0.2, 0.7, 0.3, 0.6, 0.5, 0.3, 0.2],
+                "timestamp": "2024-11-15T10:42:00.163625"
+              }
+            ]
+          },
+          {
+            "name": "Water Conservation Policy",
+            "description": "A drought is affecting the community. The government introduces a policy to conserve water, requiring everyone to cut usage by 30%.",
+            "timestamp": "2024-11-20T08:30:00.000000",
+            "situation_vector": [0.8, 0.6, 0.4, 0.7, 0.5, 0.9, 0.3, 0.6, 0.7, 0.5, 0.8, 0.6, 0.4, 0.2, 0.5, 0.3, 0.9, 0.7, 0.5, 0.4],
+            "phases": [
+              {
+                "name": "Policy Announcement",
+                "description": "The policy is announced. Citizens are asked to voluntarily reduce their water usage.",
+                "situation_vector": [0.7, 0.5, 0.3, 0.6, 0.4, 0.8, 0.3, 0.5, 0.6, 0.4, 0.7, 0.5, 0.3, 0.2, 0.4, 0.2, 0.8, 0.6, 0.4, 0.3],
+                "timestamp": "2024-11-20T09:00:00.000000"
+              },
+              {
+                "name": "Enforcement Phase",
+                "description": "The policy becomes enforced with penalties for non-compliance.",
+                "situation_vector": [0.9, 0.7, 0.5, 0.8, 0.6, 0.9, 0.4, 0.7, 0.8, 0.6, 0.9, 0.7, 0.6, 0.3, 0.6, 0.5, 0.9, 0.8, 0.7, 0.5],
+                "timestamp": "2024-11-25T10:00:00.000000"
+              }
+            ]
+          }
+        ]
     }
   }
