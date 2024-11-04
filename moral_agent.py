@@ -14,7 +14,7 @@ class MoralAgent:
         self.time_allocation = agent_data["time_allocation"]
         self.vector_space = MoralVectorSpace(MoralAbstractModel())
         self.weight_history = []
-        
+
         # Emotional state initialization
         self.emotional_state = {
             "stress": 0.5,  # Range from 0 to 1
@@ -29,22 +29,31 @@ class MoralAgent:
         return decision_score
 
     def resolve_perfect_duty_conflict(self, duties_in_conflict):
-        # Strict enforcement of perfect duties
-        return min(duties_in_conflict, key=lambda duty: self.weights[self.vector_space.duties_list.index(duty)])
+        # Prioritize duties with higher weights in case of conflict
+        return max(duties_in_conflict, key=lambda duty: self.weights[self.vector_space.duties_list.index(duty)])
 
     def allocate_resources_to_imperfect_duties(self):
-        # Allocate resources proportionally based on inclinations and available resources
+        # Allocate resources proportionally based on inclinations, perceived utility, and available resources
         total_inclination = sum(self.inclinations)
         allocation_summary = ""
+
         if total_inclination > 0:
             for i, inclination in enumerate(self.inclinations):
                 duty_name = self.vector_space.duties_list[len(self.vector_space.duties_list) - len(self.inclinations) + i]
-                allocation = (inclination / total_inclination)
-                time_allocated = allocation * self.resources["time"]
-                money_allocated = allocation * self.resources["money"]
+                
+                # Utility calculation with diminishing returns
+                utility = (inclination / total_inclination) * (1 / (1 + self.time_allocation.get(duty_name, 0) * 0.1))
+                time_allocated = utility * self.resources["time"]
+                money_allocated = utility * self.resources["money"]
+
+                # Allocation summary update
                 if time_allocated <= self.resources["time"] and money_allocated <= self.resources["money"]:
                     allocation_summary += f"- {self.name} allocated {time_allocated:.2f} units of time and {money_allocated:.2f} units of money to {duty_name}.\n"
                     
+                    # Update resources
+                    self.resources["time"] -= time_allocated
+                    self.resources["money"] -= money_allocated
+
                     # Emotional response to charity duties (increasing empathy)
                     if duty_name in ["charity", "community_support", "help_others"]:
                         self.emotional_state["empathy"] = min(1.0, self.emotional_state["empathy"] + 0.05)
