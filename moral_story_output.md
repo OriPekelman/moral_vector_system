@@ -272,7 +272,7 @@ The world is filled with individuals who have different perspectives and duties 
 ### Situation: Post-Election
 **Description**: The candidate has won, and now policies are being implemented. Social programs see a reduction in funding.
 
-#### Alice Johnson's Decision Score: 4.13
+#### Alice Johnson's Decision Score: 4.75
 **Decision**: Alice Johnson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.18, 'non_harm': 0.25, 'keep_promises': 0.06, 'respect_rights': 0.04000000000000001, 'justice': 0.04000000000000001, 'non_stealing': 0.06999999999999999, 'truthfulness': 0.15, 'avoid_exploitation': 0.5599999999999999, 'non_manipulation': 0.3, 'no_false_testimony': 0.06}
 **Imperfect Duties Considered**: {'self_improvement': 0.4, 'help_others': 0.16000000000000003, 'charity': 0.81, 'develop_talents': 0.12, 'promote_welfare': 0.48999999999999994, 'environmental_care': 0.24, 'fairness': 0.3, 'education': 0.2, 'community_support': 0.21, 'personal_growth': 0.12}
@@ -310,7 +310,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
 
 
-#### Bob Smith's Decision Score: 3.69
+#### Bob Smith's Decision Score: 4.24
 **Decision**: Bob Smith decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.12, 'non_harm': 0.15, 'keep_promises': 0.15, 'respect_rights': 0.16000000000000003, 'justice': 0.020000000000000004, 'non_stealing': 0.27999999999999997, 'truthfulness': 0.25, 'avoid_exploitation': 0.24, 'non_manipulation': 0.12, 'no_false_testimony': 0.03}
 **Imperfect Duties Considered**: {'self_improvement': 0.3, 'help_others': 0.12, 'charity': 0.45, 'develop_talents': 0.08000000000000002, 'promote_welfare': 0.27999999999999997, 'environmental_care': 0.18, 'fairness': 0.42, 'education': 0.25, 'community_support': 0.18, 'personal_growth': 0.06}
@@ -348,7 +348,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
 
 
-#### Carlos Martinez's Decision Score: 3.93
+#### Carlos Martinez's Decision Score: 4.52
 **Decision**: Carlos Martinez decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.24, 'non_harm': 0.05, 'keep_promises': 0.09, 'respect_rights': 0.27999999999999997, 'justice': 0.020000000000000004, 'non_stealing': 0.5599999999999999, 'truthfulness': 0.05, 'avoid_exploitation': 0.4, 'non_manipulation': 0.36, 'no_false_testimony': 0.06}
 **Imperfect Duties Considered**: {'self_improvement': 0.2, 'help_others': 0.24, 'charity': 0.27, 'develop_talents': 0.1, 'promote_welfare': 0.13999999999999999, 'environmental_care': 0.15, 'fairness': 0.36, 'education': 0.35, 'community_support': 0.09, 'personal_growth': 0.04000000000000001}
@@ -386,7 +386,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
 
 
-#### Diana Thompson's Decision Score: 4.87
+#### Diana Thompson's Decision Score: 5.60
 **Decision**: Diana Thompson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.18, 'non_harm': 0.2, 'keep_promises': 0.15, 'respect_rights': 0.24, 'justice': 0.06999999999999999, 'non_stealing': 0.13999999999999999, 'truthfulness': 0.15, 'avoid_exploitation': 0.48, 'non_manipulation': 0.24, 'no_false_testimony': 0.15}
 **Imperfect Duties Considered**: {'self_improvement': 0.35, 'help_others': 0.32000000000000006, 'charity': 0.54, 'develop_talents': 0.18000000000000002, 'promote_welfare': 0.35, 'environmental_care': 0.12, 'fairness': 0.48, 'education': 0.25, 'community_support': 0.21, 'personal_growth': 0.12}
@@ -424,7 +424,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
 
 
-#### Emma Wilson's Decision Score: 3.92
+#### Emma Wilson's Decision Score: 4.51
 **Decision**: Emma Wilson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.3, 'non_harm': 0.1, 'keep_promises': 0.03, 'respect_rights': 0.16000000000000003, 'justice': 0.03, 'non_stealing': 0.42, 'truthfulness': 0.1, 'avoid_exploitation': 0.08000000000000002, 'non_manipulation': 0.18, 'no_false_testimony': 0.15}
 **Imperfect Duties Considered**: {'self_improvement': 0.25, 'help_others': 0.24, 'charity': 0.36000000000000004, 'develop_talents': 0.06, 'promote_welfare': 0.48999999999999994, 'environmental_care': 0.12, 'fairness': 0.36, 'education': 0.35, 'community_support': 0.15, 'personal_growth': 0.12}
@@ -462,7 +462,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
 
 
-#### Frank Miller's Decision Score: 3.58
+#### Frank Miller's Decision Score: 4.12
 **Decision**: Frank Miller decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.12, 'non_harm': 0.15, 'keep_promises': 0.18, 'respect_rights': 0.04000000000000001, 'justice': 0.05, 'non_stealing': 0.48999999999999994, 'truthfulness': 0.15, 'avoid_exploitation': 0.16000000000000003, 'non_manipulation': 0.24, 'no_false_testimony': 0.03}
 **Imperfect Duties Considered**: {'self_improvement': 0.15, 'help_others': 0.2, 'charity': 0.63, 'develop_talents': 0.08000000000000002, 'promote_welfare': 0.13999999999999999, 'environmental_care': 0.18, 'fairness': 0.3, 'education': 0.15, 'community_support': 0.06, 'personal_growth': 0.08000000000000002}
@@ -503,7 +503,7 @@ The world is filled with individuals who have different perspectives and duties 
 ### Situation: Policy Announcement
 **Description**: The policy is announced. Citizens are asked to voluntarily reduce their water usage.
 
-#### Alice Johnson's Decision Score: 3.96
+#### Alice Johnson's Decision Score: 5.15
 **Decision**: Alice Johnson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.21, 'non_harm': 0.25, 'keep_promises': 0.06, 'respect_rights': 0.06, 'justice': 0.16000000000000003, 'non_stealing': 0.08000000000000002, 'truthfulness': 0.09, 'avoid_exploitation': 0.35, 'non_manipulation': 0.3, 'no_false_testimony': 0.08000000000000002}
 **Imperfect Duties Considered**: {'self_improvement': 0.5599999999999999, 'help_others': 0.2, 'charity': 0.27, 'develop_talents': 0.12, 'promote_welfare': 0.27999999999999997, 'environmental_care': 0.16000000000000003, 'fairness': 0.4, 'education': 0.24, 'community_support': 0.27999999999999997, 'personal_growth': 0.18}
@@ -541,7 +541,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
 
 
-#### Bob Smith's Decision Score: 3.51
+#### Bob Smith's Decision Score: 4.56
 **Decision**: Bob Smith decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.13999999999999999, 'non_harm': 0.15, 'keep_promises': 0.15, 'respect_rights': 0.24, 'justice': 0.08000000000000002, 'non_stealing': 0.32000000000000006, 'truthfulness': 0.15, 'avoid_exploitation': 0.15, 'non_manipulation': 0.12, 'no_false_testimony': 0.04000000000000001}
 **Imperfect Duties Considered**: {'self_improvement': 0.42, 'help_others': 0.15, 'charity': 0.15, 'develop_talents': 0.08000000000000002, 'promote_welfare': 0.16000000000000003, 'environmental_care': 0.12, 'fairness': 0.5599999999999999, 'education': 0.3, 'community_support': 0.24, 'personal_growth': 0.09}
@@ -579,7 +579,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
 
 
-#### Carlos Martinez's Decision Score: 3.88
+#### Carlos Martinez's Decision Score: 5.04
 **Decision**: Carlos Martinez decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.27999999999999997, 'non_harm': 0.05, 'keep_promises': 0.09, 'respect_rights': 0.42, 'justice': 0.08000000000000002, 'non_stealing': 0.6400000000000001, 'truthfulness': 0.03, 'avoid_exploitation': 0.25, 'non_manipulation': 0.36, 'no_false_testimony': 0.08000000000000002}
 **Imperfect Duties Considered**: {'self_improvement': 0.27999999999999997, 'help_others': 0.3, 'charity': 0.09, 'develop_talents': 0.1, 'promote_welfare': 0.08000000000000002, 'environmental_care': 0.1, 'fairness': 0.48, 'education': 0.42, 'community_support': 0.12, 'personal_growth': 0.06}
@@ -617,7 +617,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
 
 
-#### Diana Thompson's Decision Score: 4.84
+#### Diana Thompson's Decision Score: 6.29
 **Decision**: Diana Thompson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.21, 'non_harm': 0.2, 'keep_promises': 0.15, 'respect_rights': 0.36, 'justice': 0.27999999999999997, 'non_stealing': 0.16000000000000003, 'truthfulness': 0.09, 'avoid_exploitation': 0.3, 'non_manipulation': 0.24, 'no_false_testimony': 0.2}
 **Imperfect Duties Considered**: {'self_improvement': 0.48999999999999994, 'help_others': 0.4, 'charity': 0.18, 'develop_talents': 0.18000000000000002, 'promote_welfare': 0.2, 'environmental_care': 0.08000000000000002, 'fairness': 0.6400000000000001, 'education': 0.3, 'community_support': 0.27999999999999997, 'personal_growth': 0.18}
@@ -655,7 +655,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
 
 
-#### Emma Wilson's Decision Score: 3.93
+#### Emma Wilson's Decision Score: 5.11
 **Decision**: Emma Wilson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.35, 'non_harm': 0.1, 'keep_promises': 0.03, 'respect_rights': 0.24, 'justice': 0.12, 'non_stealing': 0.48, 'truthfulness': 0.06, 'avoid_exploitation': 0.05, 'non_manipulation': 0.18, 'no_false_testimony': 0.2}
 **Imperfect Duties Considered**: {'self_improvement': 0.35, 'help_others': 0.3, 'charity': 0.12, 'develop_talents': 0.06, 'promote_welfare': 0.27999999999999997, 'environmental_care': 0.08000000000000002, 'fairness': 0.48, 'education': 0.42, 'community_support': 0.2, 'personal_growth': 0.18}
@@ -693,7 +693,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
 
 
-#### Frank Miller's Decision Score: 3.68
+#### Frank Miller's Decision Score: 4.78
 **Decision**: Frank Miller decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.13999999999999999, 'non_harm': 0.15, 'keep_promises': 0.18, 'respect_rights': 0.06, 'justice': 0.2, 'non_stealing': 0.5599999999999999, 'truthfulness': 0.09, 'avoid_exploitation': 0.1, 'non_manipulation': 0.24, 'no_false_testimony': 0.04000000000000001}
 **Imperfect Duties Considered**: {'self_improvement': 0.21, 'help_others': 0.25, 'charity': 0.21, 'develop_talents': 0.08000000000000002, 'promote_welfare': 0.08000000000000002, 'environmental_care': 0.12, 'fairness': 0.4, 'education': 0.18, 'community_support': 0.08000000000000002, 'personal_growth': 0.12}
@@ -734,7 +734,7 @@ The world is filled with individuals who have different perspectives and duties 
 ### Situation: Enforcement Phase
 **Description**: The policy becomes enforced with penalties for non-compliance.
 
-#### Alice Johnson's Decision Score: 5.78
+#### Alice Johnson's Decision Score: 8.38
 **Decision**: Alice Johnson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.27, 'non_harm': 0.35, 'keep_promises': 0.1, 'respect_rights': 0.08000000000000002, 'justice': 0.24, 'non_stealing': 0.09000000000000001, 'truthfulness': 0.12, 'avoid_exploitation': 0.48999999999999994, 'non_manipulation': 0.4, 'no_false_testimony': 0.12}
 **Imperfect Duties Considered**: {'self_improvement': 0.7200000000000001, 'help_others': 0.27999999999999997, 'charity': 0.54, 'develop_talents': 0.18, 'promote_welfare': 0.42, 'environmental_care': 0.4, 'fairness': 0.45, 'education': 0.32000000000000006, 'community_support': 0.48999999999999994, 'personal_growth': 0.3}
@@ -772,7 +772,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
 
 
-#### Bob Smith's Decision Score: 4.97
+#### Bob Smith's Decision Score: 7.21
 **Decision**: Bob Smith decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.18000000000000002, 'non_harm': 0.21, 'keep_promises': 0.25, 'respect_rights': 0.32000000000000006, 'justice': 0.12, 'non_stealing': 0.36000000000000004, 'truthfulness': 0.2, 'avoid_exploitation': 0.21, 'non_manipulation': 0.16000000000000003, 'no_false_testimony': 0.06}
 **Imperfect Duties Considered**: {'self_improvement': 0.54, 'help_others': 0.21, 'charity': 0.3, 'develop_talents': 0.12, 'promote_welfare': 0.24, 'environmental_care': 0.3, 'fairness': 0.63, 'education': 0.4, 'community_support': 0.42, 'personal_growth': 0.15}
@@ -810,7 +810,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
 
 
-#### Carlos Martinez's Decision Score: 5.46
+#### Carlos Martinez's Decision Score: 7.92
 **Decision**: Carlos Martinez decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.36000000000000004, 'non_harm': 0.06999999999999999, 'keep_promises': 0.15, 'respect_rights': 0.5599999999999999, 'justice': 0.12, 'non_stealing': 0.7200000000000001, 'truthfulness': 0.04000000000000001, 'avoid_exploitation': 0.35, 'non_manipulation': 0.48, 'no_false_testimony': 0.12}
 **Imperfect Duties Considered**: {'self_improvement': 0.36000000000000004, 'help_others': 0.42, 'charity': 0.18, 'develop_talents': 0.15, 'promote_welfare': 0.12, 'environmental_care': 0.25, 'fairness': 0.54, 'education': 0.5599999999999999, 'community_support': 0.21, 'personal_growth': 0.1}
@@ -848,7 +848,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
 
 
-#### Diana Thompson's Decision Score: 7.00
+#### Diana Thompson's Decision Score: 10.15
 **Decision**: Diana Thompson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.27, 'non_harm': 0.27999999999999997, 'keep_promises': 0.25, 'respect_rights': 0.48, 'justice': 0.42, 'non_stealing': 0.18000000000000002, 'truthfulness': 0.12, 'avoid_exploitation': 0.42, 'non_manipulation': 0.32000000000000006, 'no_false_testimony': 0.3}
 **Imperfect Duties Considered**: {'self_improvement': 0.63, 'help_others': 0.5599999999999999, 'charity': 0.36, 'develop_talents': 0.27, 'promote_welfare': 0.3, 'environmental_care': 0.2, 'fairness': 0.7200000000000001, 'education': 0.4, 'community_support': 0.48999999999999994, 'personal_growth': 0.3}
@@ -886,7 +886,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
 
 
-#### Emma Wilson's Decision Score: 5.48
+#### Emma Wilson's Decision Score: 7.95
 **Decision**: Emma Wilson decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.45, 'non_harm': 0.13999999999999999, 'keep_promises': 0.05, 'respect_rights': 0.32000000000000006, 'justice': 0.18, 'non_stealing': 0.54, 'truthfulness': 0.08000000000000002, 'avoid_exploitation': 0.06999999999999999, 'non_manipulation': 0.24, 'no_false_testimony': 0.3}
 **Imperfect Duties Considered**: {'self_improvement': 0.45, 'help_others': 0.42, 'charity': 0.24, 'develop_talents': 0.09, 'promote_welfare': 0.42, 'environmental_care': 0.2, 'fairness': 0.54, 'education': 0.5599999999999999, 'community_support': 0.35, 'personal_growth': 0.3}
@@ -924,7 +924,7 @@ The world is filled with individuals who have different perspectives and duties 
 - Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
 
 
-#### Frank Miller's Decision Score: 5.13
+#### Frank Miller's Decision Score: 7.44
 **Decision**: Frank Miller decides to support the situation.
 **Perfect Duties Considered**: {'honesty': 0.18000000000000002, 'non_harm': 0.21, 'keep_promises': 0.3, 'respect_rights': 0.08000000000000002, 'justice': 0.3, 'non_stealing': 0.63, 'truthfulness': 0.12, 'avoid_exploitation': 0.13999999999999999, 'non_manipulation': 0.32000000000000006, 'no_false_testimony': 0.06}
 **Imperfect Duties Considered**: {'self_improvement': 0.27, 'help_others': 0.35, 'charity': 0.42, 'develop_talents': 0.12, 'promote_welfare': 0.12, 'environmental_care': 0.3, 'fairness': 0.45, 'education': 0.24, 'community_support': 0.13999999999999999, 'personal_growth': 0.2}

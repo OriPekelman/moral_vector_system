@@ -13,3 +13,5 @@ class LearningModule:
     def adjust_weights(self, situation_vector, outcome):
         feedback = self.provide_feedback(situation_vector, outcome)
         self.agent.update_weights(feedback)
+        # Adjust emotional state based on the outcome
+        self.agent.adjust_emotional_state(outcome)

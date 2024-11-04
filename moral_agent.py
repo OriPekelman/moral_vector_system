@@ -14,9 +14,18 @@ class MoralAgent:
         self.time_allocation = agent_data["time_allocation"]
         self.vector_space = MoralVectorSpace(MoralAbstractModel())
         self.weight_history = []
+        
+        # Emotional state initialization
+        self.emotional_state = {
+            "stress": 0.5,  # Range from 0 to 1
+            "happiness": 0.5,
+            "empathy": 0.5
+        }
 
     def judge_situation(self, situation_vector):
-        decision_score = np.dot(situation_vector, self.weights)
+        # Decision score influenced by emotions
+        emotion_factor = 1 + (self.emotional_state["empathy"] - self.emotional_state["stress"])
+        decision_score = np.dot(situation_vector, self.weights) * emotion_factor
         return decision_score
 
     def resolve_perfect_duty_conflict(self, duties_in_conflict):
@@ -35,11 +44,17 @@ class MoralAgent:
                 money_allocated = allocation * self.resources["money"]
                 if time_allocated <= self.resources["time"] and money_allocated <= self.resources["money"]:
                     allocation_summary += f"- {self.name} allocated {time_allocated:.2f} units of time and {money_allocated:.2f} units of money to {duty_name}.\n"
+                    
+                    # Emotional response to charity duties (increasing empathy)
+                    if duty_name in ["charity", "community_support", "help_others"]:
+                        self.emotional_state["empathy"] = min(1.0, self.emotional_state["empathy"] + 0.05)
+
         return allocation_summary
 
     def update_weights(self, feedback):
         learning_rate = 0.1
-        self.weights += learning_rate * feedback
+        emotional_adjustment = 1 + (self.emotional_state["happiness"] - self.emotional_state["stress"]) * 0.1
+        self.weights += learning_rate * feedback * emotional_adjustment
         self.weight_history.append((datetime.datetime.now(), self.weights.copy()))
 
     def map_situation_to_duties(self, situation_vector):
@@ -54,3 +69,16 @@ class MoralAgent:
                 imperfect_duties[duty_name] = value * self.inclinations[i - len(MoralAbstractModel().duties["perfect"])]
         
         return perfect_duties, imperfect_duties
+
+    def adjust_emotional_state(self, situation_outcome):
+        # Adjust emotional state based on outcome
+        if situation_outcome > 0:
+            self.emotional_state["happiness"] = min(1.0, self.emotional_state["happiness"] + 0.1)
+            self.emotional_state["stress"] = max(0.0, self.emotional_state["stress"] - 0.1)
+        else:
+            self.emotional_state["stress"] = min(1.0, self.emotional_state["stress"] + 0.1)
+            self.emotional_state["happiness"] = max(0.0, self.emotional_state["happiness"] - 0.1)
+
+        # Empathy can increase with positive community-based outcomes
+        if situation_outcome > 0.5:
+            self.emotional_state["empathy"] = min(1.0, self.emotional_state["empathy"] + 0.05)
