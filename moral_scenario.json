@@ -1,0 +1,134 @@
+{
+    "agents": [
+      {
+        "name": "Alice Johnson",
+        "social_class": "upper",
+        "description": "A wealthy individual who is family-oriented and community-focused.",
+        "weights": [0.3, 0.5, 0.2, 0.1, 0.4, 0.1, 0.3, 0.7, 0.5, 0.2, 0.3, 0.6, 0.4, 0.8, 0.7, 0.6, 0.5, 0.3, 0.7, 0.9],
+        "inclinations": [0.8, 0.4, 0.9, 0.6, 0.7, 0.8, 0.5, 0.4, 0.7, 0.6],
+        "resources": {
+          "time": 120,
+          "money": 1000
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 28,
+          "learning": 10,
+          "subsistence_work": 14,
+          "community_service": 14,
+          "family_care": 28
+        }
+      },
+      {
+        "name": "Bob Smith",
+        "social_class": "middle",
+        "description": "A middle-class worker who balances work and community service.",
+        "weights": [0.2, 0.3, 0.5, 0.4, 0.2, 0.4, 0.5, 0.3, 0.2, 0.1, 0.3, 0.2, 0.6, 0.5, 0.4, 0.6, 0.7, 0.5, 0.3, 0.4],
+        "inclinations": [0.6, 0.3, 0.5, 0.4, 0.4, 0.6, 0.7, 0.5, 0.6, 0.3],
+        "resources": {
+          "time": 100,
+          "money": 300
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 14,
+          "learning": 7,
+          "subsistence_work": 35,
+          "community_service": 7,
+          "family_care": 21
+        }
+      },
+      {
+        "name": "Carlos Martinez",
+        "social_class": "low",
+        "description": "A low-income individual who works hard to support their family.",
+        "weights": [0.4, 0.1, 0.3, 0.7, 0.2, 0.8, 0.1, 0.5, 0.6, 0.2, 0.4, 0.3, 0.5, 0.2, 0.6, 0.3, 0.2, 0.1, 0.7, 0.6],
+        "inclinations": [0.4, 0.6, 0.3, 0.5, 0.2, 0.5, 0.6, 0.7, 0.3, 0.2],
+        "resources": {
+          "time": 80,
+          "money": 50
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 7,
+          "learning": 5,
+          "subsistence_work": 49,
+          "community_service": 3,
+          "family_care": 14
+        }
+      },
+      {
+        "name": "Diana Thompson",
+        "social_class": "upper",
+        "description": "A wealthy individual who is focused on self-improvement and charity work.",
+        "weights": [0.3, 0.4, 0.5, 0.6, 0.7, 0.2, 0.3, 0.6, 0.4, 0.5, 0.7, 0.8, 0.6, 0.9, 0.8, 0.7, 0.5, 0.3, 0.6, 0.4],
+        "inclinations": [0.7, 0.8, 0.6, 0.9, 0.5, 0.4, 0.8, 0.5, 0.7, 0.6],
+        "resources": {
+          "time": 130,
+          "money": 1200
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 35,
+          "learning": 14,
+          "subsistence_work": 10,
+          "community_service": 14,
+          "family_care": 21
+        }
+      },
+      {
+        "name": "Emma Wilson",
+        "social_class": "middle",
+        "description": "A middle-class individual dedicated to family care and personal growth.",
+        "weights": [0.5, 0.2, 0.1, 0.4, 0.3, 0.6, 0.2, 0.1, 0.3, 0.5, 0.4, 0.7, 0.6, 0.5, 0.7, 0.4, 0.6, 0.2, 0.4, 0.3],
+        "inclinations": [0.5, 0.6, 0.4, 0.3, 0.7, 0.4, 0.6, 0.7, 0.5, 0.6],
+        "resources": {
+          "time": 110,
+          "money": 400
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 21,
+          "learning": 10,
+          "subsistence_work": 28,
+          "community_service": 7,
+          "family_care": 14
+        }
+      },
+      {
+        "name": "Frank Miller",
+        "social_class": "low",
+        "description": "A low-income individual focused on survival and supporting their family.",
+        "weights": [0.2, 0.3, 0.6, 0.1, 0.5, 0.7, 0.3, 0.2, 0.4, 0.1, 0.6, 0.2, 0.3, 0.4, 0.5, 0.6, 0.4, 0.7, 0.2, 0.3],
+        "inclinations": [0.3, 0.5, 0.7, 0.4, 0.2, 0.6, 0.5, 0.3, 0.2, 0.4],
+        "resources": {
+          "time": 85,
+          "money": 70
+        },
+        "time_allocation": {
+          "sleep": 56,
+          "recreation": 10,
+          "learning": 5,
+          "subsistence_work": 49,
+          "community_service": 5,
+          "family_care": 14
+        }
+      }
+    ],
+    "world": {
+      "situations": [
+        {
+          "name": "Election Scenario - Lower Taxes",
+          "description": "A candidate promises lower taxes, which will benefit wealthy individuals in the short term, allowing them to do more charity. However, it may reduce funding for social programs that benefit others in the long term.",
+          "timestamp": "2024-11-04T10:42:00.163605",
+          "situation_vector": [0.5, 0.3, 0.2, 0.4, 0.1, 0.6, 0.3, 0.7, 0.5, 0.2, 0.4, 0.3, 0.8, 0.1, 0.6, 0.2, 0.5, 0.4, 0.3, 0.1]
+        },
+        {
+          "name": "Election Scenario - Increase Taxes",
+          "description": "A candidate promises to increase taxes, which may harm wealthy individuals in the short term but improve societal conditions (education, infrastructure) in the long term.",
+          "timestamp": "2024-11-04T10:42:00.163615",
+          "situation_vector": [0.7, 0.5, 0.6, 0.8, 0.9, 0.4, 0.3, 0.5, 0.2, 0.6, 0.7, 0.3, 0.5, 0.8, 0.2, 0.4, 0.1, 0.5, 0.7, 0.9]
+        }
+      ]
+    }
+  }
