@@ -68,15 +68,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.06
 **Choices and Resource Allocation**:
 - Alice Johnson allocated 15.00 units of time and 125.00 units of money to self_improvement.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to help_others.
-- Alice Johnson allocated 16.88 units of time and 140.62 units of money to charity.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to develop_talents.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to promote_welfare.
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to environmental_care.
-- Alice Johnson allocated 9.38 units of time and 78.12 units of money to fairness.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to education.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to community_support.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
+- Alice Johnson allocated 6.56 units of time and 54.69 units of money to help_others.
+- Alice Johnson allocated 13.84 units of time and 115.36 units of money to charity.
+- Alice Johnson allocated 7.93 units of time and 66.09 units of money to develop_talents.
+- Alice Johnson allocated 8.39 units of time and 69.88 units of money to promote_welfare.
+- Alice Johnson allocated 8.53 units of time and 71.12 units of money to environmental_care.
+- Alice Johnson allocated 4.67 units of time and 38.90 units of money to fairness.
+- Alice Johnson allocated 3.44 units of time and 28.69 units of money to education.
+- Alice Johnson allocated 5.65 units of time and 47.06 units of money to community_support.
+- Alice Johnson allocated 4.31 units of time and 35.93 units of money to personal_growth.
 
 
 #### Bob Smith's Decision Score: 2.73
@@ -106,15 +106,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.03
 **Choices and Resource Allocation**:
 - Bob Smith allocated 12.24 units of time and 36.73 units of money to self_improvement.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to help_others.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to charity.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to develop_talents.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to promote_welfare.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to environmental_care.
-- Bob Smith allocated 14.29 units of time and 42.86 units of money to fairness.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to education.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to community_support.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
+- Bob Smith allocated 5.37 units of time and 16.12 units of money to help_others.
+- Bob Smith allocated 8.41 units of time and 25.22 units of money to charity.
+- Bob Smith allocated 6.04 units of time and 18.12 units of money to develop_talents.
+- Bob Smith allocated 5.55 units of time and 16.64 units of money to promote_welfare.
+- Bob Smith allocated 7.64 units of time and 22.92 units of money to environmental_care.
+- Bob Smith allocated 7.82 units of time and 23.46 units of money to fairness.
+- Bob Smith allocated 4.79 units of time and 14.37 units of money to education.
+- Bob Smith allocated 5.16 units of time and 15.48 units of money to community_support.
+- Bob Smith allocated 2.26 units of time and 6.79 units of money to personal_growth.
 
 
 #### Carlos Martinez's Decision Score: 2.91
@@ -144,15 +144,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.02
 **Choices and Resource Allocation**:
 - Carlos Martinez allocated 7.44 units of time and 4.65 units of money to self_improvement.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to help_others.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to charity.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to develop_talents.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to promote_welfare.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to environmental_care.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to fairness.
-- Carlos Martinez allocated 13.02 units of time and 8.14 units of money to education.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to community_support.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
+- Carlos Martinez allocated 10.12 units of time and 6.33 units of money to help_others.
+- Carlos Martinez allocated 4.36 units of time and 2.72 units of money to charity.
+- Carlos Martinez allocated 6.75 units of time and 4.22 units of money to develop_talents.
+- Carlos Martinez allocated 2.39 units of time and 1.49 units of money to promote_welfare.
+- Carlos Martinez allocated 5.69 units of time and 3.56 units of money to environmental_care.
+- Carlos Martinez allocated 6.03 units of time and 3.77 units of money to fairness.
+- Carlos Martinez allocated 6.06 units of time and 3.79 units of money to education.
+- Carlos Martinez allocated 2.17 units of time and 1.36 units of money to community_support.
+- Carlos Martinez allocated 1.35 units of time and 0.84 units of money to personal_growth.
 
 
 #### Diana Thompson's Decision Score: 3.71
@@ -182,15 +182,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.06
 **Choices and Resource Allocation**:
 - Diana Thompson allocated 14.00 units of time and 129.23 units of money to self_improvement.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to help_others.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to charity.
-- Diana Thompson allocated 18.00 units of time and 166.15 units of money to develop_talents.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to promote_welfare.
-- Diana Thompson allocated 8.00 units of time and 73.85 units of money to environmental_care.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to fairness.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to education.
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to community_support.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
+- Diana Thompson allocated 14.28 units of time and 131.79 units of money to help_others.
+- Diana Thompson allocated 9.39 units of time and 86.68 units of money to charity.
+- Diana Thompson allocated 12.78 units of time and 118.01 units of money to develop_talents.
+- Diana Thompson allocated 6.12 units of time and 56.48 units of money to promote_welfare.
+- Diana Thompson allocated 4.52 units of time and 41.71 units of money to environmental_care.
+- Diana Thompson allocated 8.48 units of time and 78.29 units of money to fairness.
+- Diana Thompson allocated 4.65 units of time and 42.91 units of money to education.
+- Diana Thompson allocated 6.01 units of time and 55.45 units of money to community_support.
+- Diana Thompson allocated 4.59 units of time and 42.41 units of money to personal_growth.
 
 
 #### Emma Wilson's Decision Score: 2.96
@@ -220,15 +220,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.06
 **Choices and Resource Allocation**:
 - Emma Wilson allocated 10.38 units of time and 37.74 units of money to self_improvement.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to help_others.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to charity.
-- Emma Wilson allocated 6.23 units of time and 22.64 units of money to develop_talents.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to promote_welfare.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to environmental_care.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to fairness.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to education.
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to community_support.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
+- Emma Wilson allocated 11.28 units of time and 41.01 units of money to help_others.
+- Emma Wilson allocated 6.67 units of time and 24.25 units of money to charity.
+- Emma Wilson allocated 4.62 units of time and 16.81 units of money to develop_talents.
+- Emma Wilson allocated 10.18 units of time and 37.01 units of money to promote_welfare.
+- Emma Wilson allocated 5.05 units of time and 18.35 units of money to environmental_care.
+- Emma Wilson allocated 7.00 units of time and 25.45 units of money to fairness.
+- Emma Wilson allocated 7.24 units of time and 26.33 units of money to education.
+- Emma Wilson allocated 4.49 units of time and 16.33 units of money to community_support.
+- Emma Wilson allocated 4.88 units of time and 17.74 units of money to personal_growth.
 
 
 #### Frank Miller's Decision Score: 2.67
@@ -258,15 +258,15 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (personal_growth): Impact Value = 0.04
 **Choices and Resource Allocation**:
 - Frank Miller allocated 6.22 units of time and 5.12 units of money to self_improvement.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to help_others.
-- Frank Miller allocated 14.51 units of time and 11.95 units of money to charity.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to develop_talents.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to promote_welfare.
-- Frank Miller allocated 12.44 units of time and 10.24 units of money to environmental_care.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to fairness.
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to education.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to community_support.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to personal_growth.
+- Frank Miller allocated 9.61 units of time and 7.91 units of money to help_others.
+- Frank Miller allocated 11.81 units of time and 9.73 units of money to charity.
+- Frank Miller allocated 5.60 units of time and 4.61 units of money to develop_talents.
+- Frank Miller allocated 2.53 units of time and 2.08 units of money to promote_welfare.
+- Frank Miller allocated 7.21 units of time and 5.93 units of money to environmental_care.
+- Frank Miller allocated 5.13 units of time and 4.22 units of money to fairness.
+- Frank Miller allocated 2.70 units of time and 2.22 units of money to education.
+- Frank Miller allocated 1.67 units of time and 1.37 units of money to community_support.
+- Frank Miller allocated 3.17 units of time and 2.61 units of money to personal_growth.
 
 
 ### Situation: Post-Election
@@ -298,16 +298,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.21
 - Imperfect Duty (personal_growth): Impact Value = 0.12
 **Choices and Resource Allocation**:
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to self_improvement.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to help_others.
-- Alice Johnson allocated 16.88 units of time and 140.62 units of money to charity.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to develop_talents.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to promote_welfare.
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to environmental_care.
-- Alice Johnson allocated 9.38 units of time and 78.12 units of money to fairness.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to education.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to community_support.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
+- Alice Johnson allocated 5.21 units of time and 43.41 units of money to self_improvement.
+- Alice Johnson allocated 2.28 units of time and 18.99 units of money to help_others.
+- Alice Johnson allocated 4.81 units of time and 40.06 units of money to charity.
+- Alice Johnson allocated 2.75 units of time and 22.95 units of money to develop_talents.
+- Alice Johnson allocated 2.91 units of time and 24.27 units of money to promote_welfare.
+- Alice Johnson allocated 2.96 units of time and 24.70 units of money to environmental_care.
+- Alice Johnson allocated 1.62 units of time and 13.51 units of money to fairness.
+- Alice Johnson allocated 1.20 units of time and 9.96 units of money to education.
+- Alice Johnson allocated 1.96 units of time and 16.34 units of money to community_support.
+- Alice Johnson allocated 1.50 units of time and 12.48 units of money to personal_growth.
 
 
 #### Bob Smith's Decision Score: 4.24
@@ -336,16 +336,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.18
 - Imperfect Duty (personal_growth): Impact Value = 0.06
 **Choices and Resource Allocation**:
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to self_improvement.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to help_others.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to charity.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to develop_talents.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to promote_welfare.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to environmental_care.
-- Bob Smith allocated 14.29 units of time and 42.86 units of money to fairness.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to education.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to community_support.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
+- Bob Smith allocated 4.25 units of time and 12.75 units of money to self_improvement.
+- Bob Smith allocated 1.87 units of time and 5.60 units of money to help_others.
+- Bob Smith allocated 2.92 units of time and 8.76 units of money to charity.
+- Bob Smith allocated 2.10 units of time and 6.29 units of money to develop_talents.
+- Bob Smith allocated 1.93 units of time and 5.78 units of money to promote_welfare.
+- Bob Smith allocated 2.65 units of time and 7.96 units of money to environmental_care.
+- Bob Smith allocated 2.72 units of time and 8.15 units of money to fairness.
+- Bob Smith allocated 1.66 units of time and 4.99 units of money to education.
+- Bob Smith allocated 1.79 units of time and 5.37 units of money to community_support.
+- Bob Smith allocated 0.79 units of time and 2.36 units of money to personal_growth.
 
 
 #### Carlos Martinez's Decision Score: 4.52
@@ -374,16 +374,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.09
 - Imperfect Duty (personal_growth): Impact Value = 0.04
 **Choices and Resource Allocation**:
-- Carlos Martinez allocated 7.44 units of time and 4.65 units of money to self_improvement.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to help_others.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to charity.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to develop_talents.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to promote_welfare.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to environmental_care.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to fairness.
-- Carlos Martinez allocated 13.02 units of time and 8.14 units of money to education.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to community_support.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
+- Carlos Martinez allocated 2.57 units of time and 1.61 units of money to self_improvement.
+- Carlos Martinez allocated 3.50 units of time and 2.19 units of money to help_others.
+- Carlos Martinez allocated 1.50 units of time and 0.94 units of money to charity.
+- Carlos Martinez allocated 2.33 units of time and 1.46 units of money to develop_talents.
+- Carlos Martinez allocated 0.82 units of time and 0.52 units of money to promote_welfare.
+- Carlos Martinez allocated 1.97 units of time and 1.23 units of money to environmental_care.
+- Carlos Martinez allocated 2.08 units of time and 1.30 units of money to fairness.
+- Carlos Martinez allocated 2.09 units of time and 1.31 units of money to education.
+- Carlos Martinez allocated 0.75 units of time and 0.47 units of money to community_support.
+- Carlos Martinez allocated 0.47 units of time and 0.29 units of money to personal_growth.
 
 
 #### Diana Thompson's Decision Score: 5.60
@@ -412,16 +412,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.21
 - Imperfect Duty (personal_growth): Impact Value = 0.12
 **Choices and Resource Allocation**:
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to self_improvement.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to help_others.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to charity.
-- Diana Thompson allocated 18.00 units of time and 166.15 units of money to develop_talents.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to promote_welfare.
-- Diana Thompson allocated 8.00 units of time and 73.85 units of money to environmental_care.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to fairness.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to education.
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to community_support.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
+- Diana Thompson allocated 4.87 units of time and 44.91 units of money to self_improvement.
+- Diana Thompson allocated 4.96 units of time and 45.80 units of money to help_others.
+- Diana Thompson allocated 3.26 units of time and 30.12 units of money to charity.
+- Diana Thompson allocated 4.44 units of time and 41.01 units of money to develop_talents.
+- Diana Thompson allocated 2.13 units of time and 19.63 units of money to promote_welfare.
+- Diana Thompson allocated 1.57 units of time and 14.50 units of money to environmental_care.
+- Diana Thompson allocated 2.95 units of time and 27.21 units of money to fairness.
+- Diana Thompson allocated 1.62 units of time and 14.91 units of money to education.
+- Diana Thompson allocated 2.09 units of time and 19.27 units of money to community_support.
+- Diana Thompson allocated 1.60 units of time and 14.74 units of money to personal_growth.
 
 
 #### Emma Wilson's Decision Score: 4.51
@@ -450,16 +450,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.15
 - Imperfect Duty (personal_growth): Impact Value = 0.12
 **Choices and Resource Allocation**:
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to self_improvement.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to help_others.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to charity.
-- Emma Wilson allocated 6.23 units of time and 22.64 units of money to develop_talents.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to promote_welfare.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to environmental_care.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to fairness.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to education.
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to community_support.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
+- Emma Wilson allocated 3.61 units of time and 13.11 units of money to self_improvement.
+- Emma Wilson allocated 3.92 units of time and 14.25 units of money to help_others.
+- Emma Wilson allocated 2.32 units of time and 8.42 units of money to charity.
+- Emma Wilson allocated 1.61 units of time and 5.84 units of money to develop_talents.
+- Emma Wilson allocated 3.54 units of time and 12.86 units of money to promote_welfare.
+- Emma Wilson allocated 1.75 units of time and 6.38 units of money to environmental_care.
+- Emma Wilson allocated 2.43 units of time and 8.84 units of money to fairness.
+- Emma Wilson allocated 2.52 units of time and 9.15 units of money to education.
+- Emma Wilson allocated 1.56 units of time and 5.67 units of money to community_support.
+- Emma Wilson allocated 1.70 units of time and 6.16 units of money to personal_growth.
 
 
 #### Frank Miller's Decision Score: 4.12
@@ -488,16 +488,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.06
 - Imperfect Duty (personal_growth): Impact Value = 0.08
 **Choices and Resource Allocation**:
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to self_improvement.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to help_others.
-- Frank Miller allocated 14.51 units of time and 11.95 units of money to charity.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to develop_talents.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to promote_welfare.
-- Frank Miller allocated 12.44 units of time and 10.24 units of money to environmental_care.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to fairness.
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to education.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to community_support.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to personal_growth.
+- Frank Miller allocated 2.15 units of time and 1.77 units of money to self_improvement.
+- Frank Miller allocated 3.32 units of time and 2.73 units of money to help_others.
+- Frank Miller allocated 4.08 units of time and 3.36 units of money to charity.
+- Frank Miller allocated 1.93 units of time and 1.59 units of money to develop_talents.
+- Frank Miller allocated 0.87 units of time and 0.72 units of money to promote_welfare.
+- Frank Miller allocated 2.49 units of time and 2.05 units of money to environmental_care.
+- Frank Miller allocated 1.77 units of time and 1.46 units of money to fairness.
+- Frank Miller allocated 0.93 units of time and 0.77 units of money to education.
+- Frank Miller allocated 0.58 units of time and 0.47 units of money to community_support.
+- Frank Miller allocated 1.10 units of time and 0.90 units of money to personal_growth.
 
 
 ### Situation: Policy Announcement
@@ -529,16 +529,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.28
 - Imperfect Duty (personal_growth): Impact Value = 0.18
 **Choices and Resource Allocation**:
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to self_improvement.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to help_others.
-- Alice Johnson allocated 16.88 units of time and 140.62 units of money to charity.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to develop_talents.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to promote_welfare.
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to environmental_care.
-- Alice Johnson allocated 9.38 units of time and 78.12 units of money to fairness.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to education.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to community_support.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
+- Alice Johnson allocated 1.81 units of time and 15.08 units of money to self_improvement.
+- Alice Johnson allocated 0.79 units of time and 6.60 units of money to help_others.
+- Alice Johnson allocated 1.67 units of time and 13.91 units of money to charity.
+- Alice Johnson allocated 0.96 units of time and 7.97 units of money to develop_talents.
+- Alice Johnson allocated 1.01 units of time and 8.43 units of money to promote_welfare.
+- Alice Johnson allocated 1.03 units of time and 8.58 units of money to environmental_care.
+- Alice Johnson allocated 0.56 units of time and 4.69 units of money to fairness.
+- Alice Johnson allocated 0.42 units of time and 3.46 units of money to education.
+- Alice Johnson allocated 0.68 units of time and 5.68 units of money to community_support.
+- Alice Johnson allocated 0.52 units of time and 4.33 units of money to personal_growth.
 
 
 #### Bob Smith's Decision Score: 4.56
@@ -567,16 +567,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.24
 - Imperfect Duty (personal_growth): Impact Value = 0.09
 **Choices and Resource Allocation**:
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to self_improvement.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to help_others.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to charity.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to develop_talents.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to promote_welfare.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to environmental_care.
-- Bob Smith allocated 14.29 units of time and 42.86 units of money to fairness.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to education.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to community_support.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
+- Bob Smith allocated 1.48 units of time and 4.43 units of money to self_improvement.
+- Bob Smith allocated 0.65 units of time and 1.94 units of money to help_others.
+- Bob Smith allocated 1.01 units of time and 3.04 units of money to charity.
+- Bob Smith allocated 0.73 units of time and 2.18 units of money to develop_talents.
+- Bob Smith allocated 0.67 units of time and 2.01 units of money to promote_welfare.
+- Bob Smith allocated 0.92 units of time and 2.76 units of money to environmental_care.
+- Bob Smith allocated 0.94 units of time and 2.83 units of money to fairness.
+- Bob Smith allocated 0.58 units of time and 1.73 units of money to education.
+- Bob Smith allocated 0.62 units of time and 1.87 units of money to community_support.
+- Bob Smith allocated 0.27 units of time and 0.82 units of money to personal_growth.
 
 
 #### Carlos Martinez's Decision Score: 5.04
@@ -605,16 +605,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.12
 - Imperfect Duty (personal_growth): Impact Value = 0.06
 **Choices and Resource Allocation**:
-- Carlos Martinez allocated 7.44 units of time and 4.65 units of money to self_improvement.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to help_others.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to charity.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to develop_talents.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to promote_welfare.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to environmental_care.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to fairness.
-- Carlos Martinez allocated 13.02 units of time and 8.14 units of money to education.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to community_support.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
+- Carlos Martinez allocated 0.89 units of time and 0.55 units of money to self_improvement.
+- Carlos Martinez allocated 1.21 units of time and 0.75 units of money to help_others.
+- Carlos Martinez allocated 0.52 units of time and 0.32 units of money to charity.
+- Carlos Martinez allocated 0.81 units of time and 0.50 units of money to develop_talents.
+- Carlos Martinez allocated 0.28 units of time and 0.18 units of money to promote_welfare.
+- Carlos Martinez allocated 0.68 units of time and 0.42 units of money to environmental_care.
+- Carlos Martinez allocated 0.72 units of time and 0.45 units of money to fairness.
+- Carlos Martinez allocated 0.72 units of time and 0.45 units of money to education.
+- Carlos Martinez allocated 0.26 units of time and 0.16 units of money to community_support.
+- Carlos Martinez allocated 0.16 units of time and 0.10 units of money to personal_growth.
 
 
 #### Diana Thompson's Decision Score: 6.29
@@ -643,16 +643,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.28
 - Imperfect Duty (personal_growth): Impact Value = 0.18
 **Choices and Resource Allocation**:
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to self_improvement.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to help_others.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to charity.
-- Diana Thompson allocated 18.00 units of time and 166.15 units of money to develop_talents.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to promote_welfare.
-- Diana Thompson allocated 8.00 units of time and 73.85 units of money to environmental_care.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to fairness.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to education.
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to community_support.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
+- Diana Thompson allocated 1.69 units of time and 15.61 units of money to self_improvement.
+- Diana Thompson allocated 1.72 units of time and 15.92 units of money to help_others.
+- Diana Thompson allocated 1.13 units of time and 10.47 units of money to charity.
+- Diana Thompson allocated 1.54 units of time and 14.25 units of money to develop_talents.
+- Diana Thompson allocated 0.74 units of time and 6.82 units of money to promote_welfare.
+- Diana Thompson allocated 0.55 units of time and 5.04 units of money to environmental_care.
+- Diana Thompson allocated 1.02 units of time and 9.46 units of money to fairness.
+- Diana Thompson allocated 0.56 units of time and 5.18 units of money to education.
+- Diana Thompson allocated 0.73 units of time and 6.70 units of money to community_support.
+- Diana Thompson allocated 0.55 units of time and 5.12 units of money to personal_growth.
 
 
 #### Emma Wilson's Decision Score: 5.11
@@ -681,16 +681,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.20
 - Imperfect Duty (personal_growth): Impact Value = 0.18
 **Choices and Resource Allocation**:
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to self_improvement.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to help_others.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to charity.
-- Emma Wilson allocated 6.23 units of time and 22.64 units of money to develop_talents.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to promote_welfare.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to environmental_care.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to fairness.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to education.
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to community_support.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
+- Emma Wilson allocated 1.25 units of time and 4.56 units of money to self_improvement.
+- Emma Wilson allocated 1.36 units of time and 4.95 units of money to help_others.
+- Emma Wilson allocated 0.80 units of time and 2.93 units of money to charity.
+- Emma Wilson allocated 0.56 units of time and 2.03 units of money to develop_talents.
+- Emma Wilson allocated 1.23 units of time and 4.47 units of money to promote_welfare.
+- Emma Wilson allocated 0.61 units of time and 2.22 units of money to environmental_care.
+- Emma Wilson allocated 0.85 units of time and 3.07 units of money to fairness.
+- Emma Wilson allocated 0.87 units of time and 3.18 units of money to education.
+- Emma Wilson allocated 0.54 units of time and 1.97 units of money to community_support.
+- Emma Wilson allocated 0.59 units of time and 2.14 units of money to personal_growth.
 
 
 #### Frank Miller's Decision Score: 4.78
@@ -719,16 +719,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.08
 - Imperfect Duty (personal_growth): Impact Value = 0.12
 **Choices and Resource Allocation**:
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to self_improvement.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to help_others.
-- Frank Miller allocated 14.51 units of time and 11.95 units of money to charity.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to develop_talents.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to promote_welfare.
-- Frank Miller allocated 12.44 units of time and 10.24 units of money to environmental_care.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to fairness.
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to education.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to community_support.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to personal_growth.
+- Frank Miller allocated 0.74 units of time and 0.61 units of money to self_improvement.
+- Frank Miller allocated 1.15 units of time and 0.94 units of money to help_others.
+- Frank Miller allocated 1.41 units of time and 1.16 units of money to charity.
+- Frank Miller allocated 0.67 units of time and 0.55 units of money to develop_talents.
+- Frank Miller allocated 0.30 units of time and 0.25 units of money to promote_welfare.
+- Frank Miller allocated 0.86 units of time and 0.71 units of money to environmental_care.
+- Frank Miller allocated 0.61 units of time and 0.50 units of money to fairness.
+- Frank Miller allocated 0.32 units of time and 0.27 units of money to education.
+- Frank Miller allocated 0.20 units of time and 0.16 units of money to community_support.
+- Frank Miller allocated 0.38 units of time and 0.31 units of money to personal_growth.
 
 
 ### Situation: Enforcement Phase
@@ -760,16 +760,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.49
 - Imperfect Duty (personal_growth): Impact Value = 0.30
 **Choices and Resource Allocation**:
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to self_improvement.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to help_others.
-- Alice Johnson allocated 16.88 units of time and 140.62 units of money to charity.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to develop_talents.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to promote_welfare.
-- Alice Johnson allocated 15.00 units of time and 125.00 units of money to environmental_care.
-- Alice Johnson allocated 9.38 units of time and 78.12 units of money to fairness.
-- Alice Johnson allocated 7.50 units of time and 62.50 units of money to education.
-- Alice Johnson allocated 13.12 units of time and 109.37 units of money to community_support.
-- Alice Johnson allocated 11.25 units of time and 93.75 units of money to personal_growth.
+- Alice Johnson allocated 0.63 units of time and 5.24 units of money to self_improvement.
+- Alice Johnson allocated 0.27 units of time and 2.29 units of money to help_others.
+- Alice Johnson allocated 0.58 units of time and 4.83 units of money to charity.
+- Alice Johnson allocated 0.33 units of time and 2.77 units of money to develop_talents.
+- Alice Johnson allocated 0.35 units of time and 2.93 units of money to promote_welfare.
+- Alice Johnson allocated 0.36 units of time and 2.98 units of money to environmental_care.
+- Alice Johnson allocated 0.20 units of time and 1.63 units of money to fairness.
+- Alice Johnson allocated 0.14 units of time and 1.20 units of money to education.
+- Alice Johnson allocated 0.24 units of time and 1.97 units of money to community_support.
+- Alice Johnson allocated 0.18 units of time and 1.50 units of money to personal_growth.
 
 
 #### Bob Smith's Decision Score: 7.21
@@ -798,16 +798,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.42
 - Imperfect Duty (personal_growth): Impact Value = 0.15
 **Choices and Resource Allocation**:
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to self_improvement.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to help_others.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to charity.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to develop_talents.
-- Bob Smith allocated 8.16 units of time and 24.49 units of money to promote_welfare.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to environmental_care.
-- Bob Smith allocated 14.29 units of time and 42.86 units of money to fairness.
-- Bob Smith allocated 10.20 units of time and 30.61 units of money to education.
-- Bob Smith allocated 12.24 units of time and 36.73 units of money to community_support.
-- Bob Smith allocated 6.12 units of time and 18.37 units of money to personal_growth.
+- Bob Smith allocated 0.51 units of time and 1.54 units of money to self_improvement.
+- Bob Smith allocated 0.22 units of time and 0.67 units of money to help_others.
+- Bob Smith allocated 0.35 units of time and 1.06 units of money to charity.
+- Bob Smith allocated 0.25 units of time and 0.76 units of money to develop_talents.
+- Bob Smith allocated 0.23 units of time and 0.70 units of money to promote_welfare.
+- Bob Smith allocated 0.32 units of time and 0.96 units of money to environmental_care.
+- Bob Smith allocated 0.33 units of time and 0.98 units of money to fairness.
+- Bob Smith allocated 0.20 units of time and 0.60 units of money to education.
+- Bob Smith allocated 0.22 units of time and 0.65 units of money to community_support.
+- Bob Smith allocated 0.09 units of time and 0.28 units of money to personal_growth.
 
 
 #### Carlos Martinez's Decision Score: 7.92
@@ -836,16 +836,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.21
 - Imperfect Duty (personal_growth): Impact Value = 0.10
 **Choices and Resource Allocation**:
-- Carlos Martinez allocated 7.44 units of time and 4.65 units of money to self_improvement.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to help_others.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to charity.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to develop_talents.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to promote_welfare.
-- Carlos Martinez allocated 9.30 units of time and 5.81 units of money to environmental_care.
-- Carlos Martinez allocated 11.16 units of time and 6.98 units of money to fairness.
-- Carlos Martinez allocated 13.02 units of time and 8.14 units of money to education.
-- Carlos Martinez allocated 5.58 units of time and 3.49 units of money to community_support.
-- Carlos Martinez allocated 3.72 units of time and 2.33 units of money to personal_growth.
+- Carlos Martinez allocated 0.31 units of time and 0.19 units of money to self_improvement.
+- Carlos Martinez allocated 0.42 units of time and 0.26 units of money to help_others.
+- Carlos Martinez allocated 0.18 units of time and 0.11 units of money to charity.
+- Carlos Martinez allocated 0.28 units of time and 0.17 units of money to develop_talents.
+- Carlos Martinez allocated 0.10 units of time and 0.06 units of money to promote_welfare.
+- Carlos Martinez allocated 0.23 units of time and 0.15 units of money to environmental_care.
+- Carlos Martinez allocated 0.25 units of time and 0.16 units of money to fairness.
+- Carlos Martinez allocated 0.25 units of time and 0.16 units of money to education.
+- Carlos Martinez allocated 0.09 units of time and 0.06 units of money to community_support.
+- Carlos Martinez allocated 0.06 units of time and 0.03 units of money to personal_growth.
 
 
 #### Diana Thompson's Decision Score: 10.15
@@ -874,16 +874,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.49
 - Imperfect Duty (personal_growth): Impact Value = 0.30
 **Choices and Resource Allocation**:
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to self_improvement.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to help_others.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to charity.
-- Diana Thompson allocated 18.00 units of time and 166.15 units of money to develop_talents.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to promote_welfare.
-- Diana Thompson allocated 8.00 units of time and 73.85 units of money to environmental_care.
-- Diana Thompson allocated 16.00 units of time and 147.69 units of money to fairness.
-- Diana Thompson allocated 10.00 units of time and 92.31 units of money to education.
-- Diana Thompson allocated 14.00 units of time and 129.23 units of money to community_support.
-- Diana Thompson allocated 12.00 units of time and 110.77 units of money to personal_growth.
+- Diana Thompson allocated 0.59 units of time and 5.42 units of money to self_improvement.
+- Diana Thompson allocated 0.60 units of time and 5.53 units of money to help_others.
+- Diana Thompson allocated 0.39 units of time and 3.64 units of money to charity.
+- Diana Thompson allocated 0.54 units of time and 4.95 units of money to develop_talents.
+- Diana Thompson allocated 0.26 units of time and 2.37 units of money to promote_welfare.
+- Diana Thompson allocated 0.19 units of time and 1.75 units of money to environmental_care.
+- Diana Thompson allocated 0.36 units of time and 3.29 units of money to fairness.
+- Diana Thompson allocated 0.20 units of time and 1.80 units of money to education.
+- Diana Thompson allocated 0.25 units of time and 2.33 units of money to community_support.
+- Diana Thompson allocated 0.19 units of time and 1.78 units of money to personal_growth.
 
 
 #### Emma Wilson's Decision Score: 7.95
@@ -912,16 +912,16 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.35
 - Imperfect Duty (personal_growth): Impact Value = 0.30
 **Choices and Resource Allocation**:
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to self_improvement.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to help_others.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to charity.
-- Emma Wilson allocated 6.23 units of time and 22.64 units of money to develop_talents.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to promote_welfare.
-- Emma Wilson allocated 8.30 units of time and 30.19 units of money to environmental_care.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to fairness.
-- Emma Wilson allocated 14.53 units of time and 52.83 units of money to education.
-- Emma Wilson allocated 10.38 units of time and 37.74 units of money to community_support.
-- Emma Wilson allocated 12.45 units of time and 45.28 units of money to personal_growth.
+- Emma Wilson allocated 0.44 units of time and 1.58 units of money to self_improvement.
+- Emma Wilson allocated 0.47 units of time and 1.72 units of money to help_others.
+- Emma Wilson allocated 0.28 units of time and 1.02 units of money to charity.
+- Emma Wilson allocated 0.19 units of time and 0.71 units of money to develop_talents.
+- Emma Wilson allocated 0.43 units of time and 1.55 units of money to promote_welfare.
+- Emma Wilson allocated 0.21 units of time and 0.77 units of money to environmental_care.
+- Emma Wilson allocated 0.29 units of time and 1.07 units of money to fairness.
+- Emma Wilson allocated 0.30 units of time and 1.10 units of money to education.
+- Emma Wilson allocated 0.19 units of time and 0.68 units of money to community_support.
+- Emma Wilson allocated 0.20 units of time and 0.74 units of money to personal_growth.
 
 
 #### Frank Miller's Decision Score: 7.44
@@ -950,14 +950,14 @@ The world is filled with individuals who have different perspectives and duties 
 - Imperfect Duty (community_support): Impact Value = 0.14
 - Imperfect Duty (personal_growth): Impact Value = 0.20
 **Choices and Resource Allocation**:
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to self_improvement.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to help_others.
-- Frank Miller allocated 14.51 units of time and 11.95 units of money to charity.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to develop_talents.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to promote_welfare.
-- Frank Miller allocated 12.44 units of time and 10.24 units of money to environmental_care.
-- Frank Miller allocated 10.37 units of time and 8.54 units of money to fairness.
-- Frank Miller allocated 6.22 units of time and 5.12 units of money to education.
-- Frank Miller allocated 4.15 units of time and 3.41 units of money to community_support.
-- Frank Miller allocated 8.29 units of time and 6.83 units of money to personal_growth.
+- Frank Miller allocated 0.26 units of time and 0.21 units of money to self_improvement.
+- Frank Miller allocated 0.40 units of time and 0.33 units of money to help_others.
+- Frank Miller allocated 0.49 units of time and 0.40 units of money to charity.
+- Frank Miller allocated 0.23 units of time and 0.19 units of money to develop_talents.
+- Frank Miller allocated 0.10 units of time and 0.09 units of money to promote_welfare.
+- Frank Miller allocated 0.30 units of time and 0.24 units of money to environmental_care.
+- Frank Miller allocated 0.21 units of time and 0.17 units of money to fairness.
+- Frank Miller allocated 0.11 units of time and 0.09 units of money to education.
+- Frank Miller allocated 0.07 units of time and 0.06 units of money to community_support.
+- Frank Miller allocated 0.13 units of time and 0.11 units of money to personal_growth.
 

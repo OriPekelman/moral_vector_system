@@ -22,13 +22,32 @@ if __name__ == "__main__":
 
     # Process each agent for each situation
     learning_module = LearningModule(agents[0])
+    decisions_per_situation = {}  # Track decisions for majority voting
+
     for situation in world.get_situations_over_time():
+        decisions_per_situation[situation["name"]] = []
         for agent in agents:
             outcome = agent.judge_situation(situation["situation_vector"])
+            decision = 'support' if outcome > 0 else 'oppose'
+            decisions_per_situation[situation["name"]].append(decision)
             print(f"Agent {agent.name} Decision Score at {situation['timestamp']}: {outcome}")
             learning_module.agent = agent
             learning_module.adjust_weights(situation["situation_vector"], outcome)
             agent.allocate_resources_to_imperfect_duties()
+
+    # Determine election outcomes based on majority vote
+    election_outcomes = {}
+    for situation_name, decisions in decisions_per_situation.items():
+        support_count = decisions.count('support')
+        oppose_count = decisions.count('oppose')
+        if support_count > oppose_count:
+            election_outcomes[situation_name] = 'Majority supports'
+        else:
+            election_outcomes[situation_name] = 'Majority opposes'
+
+    # Print election outcomes
+    for situation_name, outcome in election_outcomes.items():
+        print(f"Election Outcome for {situation_name}: {outcome}")
 
     # Visualizing moral vectors and weight changes over time for all agents in a single plot
     visualizer.visualize_vectors(agents, world.get_situations_over_time())
@@ -36,8 +55,11 @@ if __name__ == "__main__":
 
     # Save the story to a JSON file
     with open("moral_story_output.json", "w") as outfile:
-        json.dump({"story": story}, outfile, indent=4)
+        json.dump({"story": story, "election_outcomes": election_outcomes}, outfile, indent=4)
 
     # Save the story to a Markdown file
     with open("moral_story_output.md", "w") as mdfile:
         mdfile.write(story)
+        mdfile.write("\n\n# Election Outcomes\n")
+        for situation_name, outcome in election_outcomes.items():
+            mdfile.write(f"- **{situation_name}**: {outcome}\n")
