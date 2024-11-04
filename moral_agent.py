@@ -28,9 +28,26 @@ class MoralAgent:
         decision_score = np.dot(situation_vector, self.weights) * emotion_factor
         return decision_score
 
+
     def resolve_perfect_duty_conflict(self, duties_in_conflict):
-        # Prioritize duties with higher weights in case of conflict
-        return max(duties_in_conflict, key=lambda duty: self.weights[self.vector_space.duties_list.index(duty)])
+        # Decision matrix-based conflict resolution
+        # Prioritize duties based on weights and emotional state
+        prioritized_duties = sorted(duties_in_conflict, key=lambda duty: self.weights[self.vector_space.duties_list.index(duty)], reverse=True)
+        
+        # Contextual analysis: considering empathy and stress
+        if self.emotional_state["empathy"] > 0.7:
+            # Empathy may push certain duties to the top, like "help_others" or "avoid_exploitation"
+            for duty in ["help_others", "avoid_exploitation"]:
+                if duty in prioritized_duties:
+                    prioritized_duties.insert(0, prioritized_duties.pop(prioritized_duties.index(duty)))
+
+        if self.emotional_state["stress"] > 0.7:
+            # High stress may deprioritize duties that require significant resources or risk
+            for duty in ["keep_promises", "respect_rights"]:
+                if duty in prioritized_duties:
+                    prioritized_duties.append(prioritized_duties.pop(prioritized_duties.index(duty)))
+        
+        return prioritized_duties[0]
 
     def allocate_resources_to_imperfect_duties(self):
         # Allocate resources proportionally based on inclinations, perceived utility, and available resources
